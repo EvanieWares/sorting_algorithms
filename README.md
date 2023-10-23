@@ -1,4 +1,4 @@
-This is the Sorting Algorithms project folder.
+This is the sorting algorithms project folder. It contain implementations for sortingalgorithms and Big O notaion.
 
 -> Contributors:<br>
 Amouch Mohamed <skyied.med2023@gmail.com><br>
