@@ -51,7 +51,7 @@ void merge(int *array, int *left, int *right, size_t l_size, size_t r_size)
 
 /**
  * merge_sort - Sorts an array of integers in ascending order
- * using the Shell sort algorithm, using the Knuth sequence
+ * using the Merge sort algorithm
  *
  * @array: the array to sort
  * @size: the size of the array
